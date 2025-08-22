@@ -2,7 +2,7 @@
 
 A Machine Learning application that predicts PM2.5 Air Quality Index (AQI) categories based on various air quality parameters. The app provides real-time predictions with health recommendations.
 
-🔗 Try it live:
+🔗 Try it live: https://air-quality-predictor-007.streamlit.app/
 
 ---
 
@@ -61,8 +61,8 @@ air-quality-predictor/
 ├── requirements.txt             # Python dependencies
 ├── README.md                    # Project documentation
 ├── assets/
-   └── preview1.png              # Streamlit configuration
-   └── preview2.png              # Streamlit configuration
+   └── preview1.png              # Image1
+   └── preview2.png              # Image2
 
 ```
 
